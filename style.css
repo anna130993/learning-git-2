@@ -5,3 +5,7 @@ h1 {
 p {
     font-family: 'Merriweather', serif;
 }
+
+p:first-of-type {
+    font-size: 18px;
+}
