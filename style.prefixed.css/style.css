@@ -1,0 +1,11 @@
+h1 {
+    font-family: 'Playfair Display', serif;
+}
+
+p {
+    font-family: 'Merriweather', serif;
+}
+
+p:first-of-type {
+    font-size: 18px;
+}
