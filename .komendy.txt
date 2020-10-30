@@ -1,0 +1,7 @@
+AUTOPREFIXER
+
+autoprefixer-cli -c style.css -o style.prefixed.css
+
+VALIDATOR
+
+html-validate --file="*.html"
